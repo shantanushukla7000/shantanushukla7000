@@ -1,5 +1,6 @@
 ## Hello shantanu 👋
-
+this is my first gir Respository.
+Authir - Shantanu shukla
 <!--
 **shantanushukla7000/shantanushukla7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
